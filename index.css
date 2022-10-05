@@ -621,3 +621,11 @@ header .navbar ul li a:hover{
       transform: rotate(360deg);
     }
   }
+
+  .box-container .box::placeholder{
+    color: #fff;
+  }
+
+  .box::placeholder{
+    color: #fff;
+  }
